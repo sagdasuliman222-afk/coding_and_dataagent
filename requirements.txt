@@ -1,5 +1,2 @@
-openai-agents
-python-dotenv
-pandas
-numpy
-matplotlib
+!pip install openai-agents python-dotenv pandas numpy openpyxl -q
+
